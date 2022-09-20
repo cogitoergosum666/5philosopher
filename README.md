@@ -10,6 +10,6 @@
 
 当前例程将进行20s的模拟，可以修改
 >            if table.Timepass == 20 : 
-                break 
+>              break 
                 
 的跳出条件改变模拟时长。
